@@ -4,9 +4,9 @@ email: samuel.cunha@edu.unifil.br
 description: > # this means to ignore newlines until "baseurl:"
   Este é um blog pessoal criado utilizando o JEKYLL para concluir uma trabalho bimestral.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://github.com/sampcunha" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username:  campcunha
+github_username:  sampcunha
 
 # Build settings
 markdown: kramdown
