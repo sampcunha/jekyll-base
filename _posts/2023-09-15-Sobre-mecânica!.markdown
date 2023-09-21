@@ -2,7 +2,7 @@
 layout: post
 title:  "Sobre mecânica!"
 date:   2023-09-15 20:41:00
-categories: automotivo
+categories: jekyll update
 ---
 Caro leitor
 
