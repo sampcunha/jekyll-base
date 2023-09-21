@@ -5,4 +5,4 @@ https://jamstack.org/generators/jekyll/
 
 Este é o link para o meu site, criado com este repositório:
 
-https://soft-kitten-b156d7.netlify.app
+https://blog-sam-p-cunha.netlify.app
